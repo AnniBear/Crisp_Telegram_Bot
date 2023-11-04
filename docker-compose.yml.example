@@ -5,7 +5,7 @@ networks:
 
 services:
   bot:
-    image: AnniBear/crisp_tgbot
+    image: heaid/crisp_tgbot
 #    volumes:
 #      - "<Crisp_Telegram_Bot_data>/config.yml:/Crisp_Telegram_Bot/config.yml"
     restart: always
